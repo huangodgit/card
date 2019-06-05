@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/action/card/CardAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/action/card/CardRetrieveAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/action/card/DownLoadAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/action/card/UploadAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/action/user/UserAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/dao/DaoHibernate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/dao/IBaseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/dao/impl/CardDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/dao/impl/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/domain/Card.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/domain/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/utils/DbToExcel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sh/utils/DbToExcel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/domain/Card.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/domain/User.hbm.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/struts-user.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/struts.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resource/user/UserAction-register-validation.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/card" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/download" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/upload" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/user" charset="GBK" />
+  </component>
+</project>
